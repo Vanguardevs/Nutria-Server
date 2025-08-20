@@ -3,7 +3,11 @@
 </div>
 
 <div>
-  1. Obtenha o arquivo nutria.json do firebase
-  2. Insira esse arquivo dentro da pasta raiz chamada firebase
-  3. Rode o server 
+  
+  <p>1. Obtenha o arquivo nutria.json do firebase</p>
+  
+  <p>2. Insira esse arquivo dentro da pasta raiz chamada firebase</p>
+  
+  <p>3. Rode o server</p>
+  
 </div>
