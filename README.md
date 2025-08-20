@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Para teste do server, siga as etapas a seguir:</h1>
+  <h1>PARA TESTE DO SERVER, SIGA AS ETAPAS A SEGUIR:</h1>
 </div>
 
 <div>
