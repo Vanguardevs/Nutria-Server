@@ -2,7 +2,7 @@
   <h1>Para teste do server, siga as etapas a seguir:</h1>
 </div>
 
-<div align="column">
+<div>
   1. Obtenha o arquivo nutria.json do firebase
   2. Insira esse arquivo dentro da pasta raiz chamada firebase
   3. Rode o server 
